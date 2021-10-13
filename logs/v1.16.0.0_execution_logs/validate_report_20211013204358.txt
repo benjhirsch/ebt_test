@@ -3,13 +3,13 @@ PDS Validate Tool Report
 
 Configuration:
    Version                       2.1.0
-   Date                          2021-10-13T20:42:12Z
+   Date                          2021-10-13T20:44:00Z
 
 Parameters:
    Targets                       [file:/home/runner/work/ebt_test/ebt_test/test/test1_VALID.xml]
    Rule Type                     pds4.label
-   User Specified Schemas        [file:/home/runner/work/ebt_test/ebt_test/build/development/7d4eb6a73428eccc8ce1ece57a5444f432623522/1.16.0.0/PDS4_EXAMPLE_1G00_1000.xsd, file:/tmp/PDS4_PDS_1G00.xsd]
-   User Specified Schematrons    [file:/home/runner/work/ebt_test/ebt_test/build/development/7d4eb6a73428eccc8ce1ece57a5444f432623522/1.16.0.0/PDS4_EXAMPLE_1G00_1000.sch, file:/tmp/PDS4_PDS_1G00.sch]
+   User Specified Schemas        [file:/home/runner/work/ebt_test/ebt_test/build/development/e4b8e89f09b29331597cc8ec0498427fc7c6c398/1.16.0.0/PDS4_EXAMPLE_1G00_1000.xsd, file:/tmp/PDS4_PDS_1G00.xsd]
+   User Specified Schematrons    [file:/home/runner/work/ebt_test/ebt_test/build/development/e4b8e89f09b29331597cc8ec0498427fc7c6c398/1.16.0.0/PDS4_EXAMPLE_1G00_1000.sch, file:/tmp/PDS4_PDS_1G00.sch]
    Severity Level                WARNING
    Recurse Directories           true
    File Filters Used             [*.xml, *.XML]
@@ -45,5 +45,5 @@ Summary:
     1            warning.label.missing_schematron_spec
 
 End of Report
-Completed execution in 4352 ms
+Completed execution in 6565 ms
 
